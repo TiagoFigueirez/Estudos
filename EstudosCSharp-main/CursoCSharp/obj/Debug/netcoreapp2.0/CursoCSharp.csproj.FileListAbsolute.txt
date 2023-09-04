@@ -1,0 +1,5 @@
+C:\Users\Tiago\source\repos\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.csproj.AssemblyReference.cache
+C:\Users\Tiago\source\repos\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiago\source\repos\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.AssemblyInfoInputs.cache
+C:\Users\Tiago\source\repos\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.AssemblyInfo.cs
+C:\Users\Tiago\source\repos\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.csproj.CoreCompileInputs.cache

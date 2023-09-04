@@ -1,0 +1,45 @@
+C:\Users\Tiago\source\repos\CursoCSharp\bin\Debug\net6.0\CursoCSharp.exe
+C:\Users\Tiago\source\repos\CursoCSharp\bin\Debug\net6.0\CursoCSharp.deps.json
+C:\Users\Tiago\source\repos\CursoCSharp\bin\Debug\net6.0\CursoCSharp.runtimeconfig.json
+C:\Users\Tiago\source\repos\CursoCSharp\bin\Debug\net6.0\CursoCSharp.dll
+C:\Users\Tiago\source\repos\CursoCSharp\bin\Debug\net6.0\CursoCSharp.pdb
+C:\Users\Tiago\source\repos\CursoCSharp\obj\Debug\net6.0\CursoCSharp.csproj.AssemblyReference.cache
+C:\Users\Tiago\source\repos\CursoCSharp\obj\Debug\net6.0\CursoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiago\source\repos\CursoCSharp\obj\Debug\net6.0\CursoCSharp.AssemblyInfoInputs.cache
+C:\Users\Tiago\source\repos\CursoCSharp\obj\Debug\net6.0\CursoCSharp.AssemblyInfo.cs
+C:\Users\Tiago\source\repos\CursoCSharp\obj\Debug\net6.0\CursoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\source\repos\CursoCSharp\obj\Debug\net6.0\CursoCSharp.dll
+C:\Users\Tiago\source\repos\CursoCSharp\obj\Debug\net6.0\refint\CursoCSharp.dll
+C:\Users\Tiago\source\repos\CursoCSharp\obj\Debug\net6.0\CursoCSharp.pdb
+C:\Users\Tiago\source\repos\CursoCSharp\obj\Debug\net6.0\CursoCSharp.genruntimeconfig.cache
+C:\Users\Tiago\source\repos\CursoCSharp\obj\Debug\net6.0\ref\CursoCSharp.dll
+C:\Users\thiago.paula\Desktop\CursoCSharp\obj\Debug\net6.0\CursoCSharp.csproj.AssemblyReference.cache
+C:\Users\thiago.paula\Desktop\CursoCSharp\obj\Debug\net6.0\CursoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiago.paula\Desktop\CursoCSharp\obj\Debug\net6.0\CursoCSharp.AssemblyInfoInputs.cache
+C:\Users\thiago.paula\Desktop\CursoCSharp\obj\Debug\net6.0\CursoCSharp.AssemblyInfo.cs
+C:\Users\thiago.paula\Desktop\CursoCSharp\obj\Debug\net6.0\CursoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\thiago.paula\Desktop\CursoCSharp\obj\Debug\net6.0\CursoCSharp.dll
+C:\Users\thiago.paula\Desktop\CursoCSharp\obj\Debug\net6.0\refint\CursoCSharp.dll
+C:\Users\thiago.paula\Desktop\CursoCSharp\obj\Debug\net6.0\CursoCSharp.pdb
+C:\Users\thiago.paula\Desktop\CursoCSharp\bin\Debug\net6.0\CursoCSharp.exe
+C:\Users\thiago.paula\Desktop\CursoCSharp\bin\Debug\net6.0\CursoCSharp.deps.json
+C:\Users\thiago.paula\Desktop\CursoCSharp\bin\Debug\net6.0\CursoCSharp.runtimeconfig.json
+C:\Users\thiago.paula\Desktop\CursoCSharp\bin\Debug\net6.0\CursoCSharp.dll
+C:\Users\thiago.paula\Desktop\CursoCSharp\bin\Debug\net6.0\CursoCSharp.pdb
+C:\Users\thiago.paula\Desktop\CursoCSharp\obj\Debug\net6.0\CursoCSharp.genruntimeconfig.cache
+C:\Users\thiago.paula\Desktop\CursoCSharp\obj\Debug\net6.0\ref\CursoCSharp.dll
+D:\tiago\estudos de progamação tiago\CursoCSharp\bin\Debug\net6.0\CursoCSharp.exe
+D:\tiago\estudos de progamação tiago\CursoCSharp\bin\Debug\net6.0\CursoCSharp.deps.json
+D:\tiago\estudos de progamação tiago\CursoCSharp\bin\Debug\net6.0\CursoCSharp.runtimeconfig.json
+D:\tiago\estudos de progamação tiago\CursoCSharp\bin\Debug\net6.0\CursoCSharp.dll
+D:\tiago\estudos de progamação tiago\CursoCSharp\bin\Debug\net6.0\CursoCSharp.pdb
+D:\tiago\estudos de progamação tiago\CursoCSharp\obj\Debug\net6.0\CursoCSharp.csproj.AssemblyReference.cache
+D:\tiago\estudos de progamação tiago\CursoCSharp\obj\Debug\net6.0\CursoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\tiago\estudos de progamação tiago\CursoCSharp\obj\Debug\net6.0\CursoCSharp.AssemblyInfoInputs.cache
+D:\tiago\estudos de progamação tiago\CursoCSharp\obj\Debug\net6.0\CursoCSharp.AssemblyInfo.cs
+D:\tiago\estudos de progamação tiago\CursoCSharp\obj\Debug\net6.0\CursoCSharp.csproj.CoreCompileInputs.cache
+D:\tiago\estudos de progamação tiago\CursoCSharp\obj\Debug\net6.0\CursoCSharp.dll
+D:\tiago\estudos de progamação tiago\CursoCSharp\obj\Debug\net6.0\refint\CursoCSharp.dll
+D:\tiago\estudos de progamação tiago\CursoCSharp\obj\Debug\net6.0\CursoCSharp.pdb
+D:\tiago\estudos de progamação tiago\CursoCSharp\obj\Debug\net6.0\CursoCSharp.genruntimeconfig.cache
+D:\tiago\estudos de progamação tiago\CursoCSharp\obj\Debug\net6.0\ref\CursoCSharp.dll

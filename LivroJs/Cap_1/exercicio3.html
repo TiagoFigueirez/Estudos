@@ -1,0 +1,12 @@
+<meta charset="utf-8">
+
+<script>
+
+    var precoProduto = Number(prompt("digite o preço do produto: "));
+    var descontoAVista= 0.1* precoProduto;
+    var aVista = precoProduto - descontoAVista;
+    var parcelado= precoProduto / 3;
+
+    alert("Preço: R$"+precoProduto.toFixed(2)+"\nA vista: R$"+aVista.toFixed(2)+"\nOu em 3X de: R$"+parcelado.toFixed(2));
+
+</script>
